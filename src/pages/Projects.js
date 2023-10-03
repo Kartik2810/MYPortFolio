@@ -56,7 +56,7 @@ function Projects() {
                     <div className="card-body">
                         <h3 className="card-title">ExpenseTracker</h3>
                         <p className="card-text">MERN-STACK website used to track your expense.design with Ant-Design.</p>
-                        <a href=" https://jealous-sandals-seal.cyclic.app" target='_blanck' className="btn btn-primary">view-Site</a>
+                        <a href="https://distinct-cowboy-hat-pike.cyclic.cloud" target='_blanck' className="btn btn-primary">view-Site</a>
                     </div>
                 </div>
                 </SwiperSlide>
