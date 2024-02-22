@@ -11,8 +11,9 @@ import 'swiper/css';
 function Projects() {
     return (
         <>
+        <h1 className='projects'>My Projects</h1>
         <section id='projects'>
-            <h1 className='projects'>My Projects</h1>
+            
             <Swiper
                 spaceBetween={30}
                 slidesPerView={3}
@@ -63,7 +64,7 @@ function Projects() {
                 </div>
                 </SwiperSlide>
                 
-                
+                 
                 
                 <SwiperSlide>
                 
